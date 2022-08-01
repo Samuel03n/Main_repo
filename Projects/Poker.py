@@ -1,6 +1,8 @@
 from os import remove
 from re import L, S
 import random
+
+print("test")
 values = list(range(2,15))
 suits = "Hearts", "Diamonds", "Clubs", "Spades"
 
